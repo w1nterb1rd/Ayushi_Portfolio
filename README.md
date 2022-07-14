@@ -8,7 +8,7 @@
  * Candy Production -  Time series analysis and forecasting
  
  # [Project: Heart Disease Prediction](https://github.com/w1nterb1rd/Heart-Disease-Prediction)
- The data was taken from Kaggle. Based on age, gender and symptoms of a person, the model predicts if that person is likely to have a heart attack or not. Since the dependent variable is categorical in nature, logistic regression model has been used. In this project, I have done step by step cleaning of data, treatment of outliers, dividing the data into test and train, modelling and accuracy check. Depending on the correlation between the independent variables, three models have been compared. 
+<p align=justify>The data was taken from Kaggle. Based on age, gender and symptoms of a person, the model predicts if that person is likely to have a heart attack or not. Since the dependent variable is categorical in nature, logistic regression model has been used. In this project, I have done step by step cleaning of data, treatment of outliers, dividing the data into test and train, modelling and accuracy check. Depending on the correlation between the independent variables, three models have been compared.</p>
  
  # [Python assignments](https://github.com/w1nterb1rd/Python-Assignments)
  This section consists of assignments about using Python for data science. This includes:-
