@@ -15,4 +15,5 @@ Data Science and Analytics Portfolio
  ## [Python assignments](https://github.com/w1nterb1rd/Python-Assignments)
  This section consists of assignments about using Python for data science. This includes:-
  * Scrapping data from webpages using BeautifulSoup library
- * Parsing PDFs using tabula
+ * Parsing tables from PDFs using tabula
+ * Summarazing the data using Pandas profiling
