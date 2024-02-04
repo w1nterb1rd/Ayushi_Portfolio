@@ -1,5 +1,8 @@
 # Ayushi's Portfolio
 
+## [Application Development Project](https://github.com/w1ndwatcher/flask-vue-crud-blog)
+A minimal CRUD Blogging App developed using Flask, Vue2 and SQlite.
+
 ## [Mini Projects](https://github.com/w1nterb1rd/Mini-Projects)
 
  These are some of the analytics projects I did using R. Data was taken from Kaggle.
